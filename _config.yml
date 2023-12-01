@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gong Jinqi"
+title                    : "Gong Jinqi's Homepage"
 title_separator          : "-"
-name                     : &name "Gong Jinqi's Homepage"
+name                     : &name "Gong Jinqi"
 description              : &description "University of Macau"
 url                      : https://eggmangong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

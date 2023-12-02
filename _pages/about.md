@@ -14,4 +14,4 @@ I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in Spring 2
 
 You can find my CV here: [Gong Jinqi's Curriculum Vitae](../assets/Resume_Jinqi.pdf)
 
-[Email](mailto:eggmangong@gmail.com) / [Github](https://github.com/Eggmangong/) / [Linkedin](www.linkedin.com/in/gongjinqi) / [Instagram](https://www.instagram.com/gongjinqi/)
+[Email](mailto:eggmangong@gmail.com) / [Github](https://github.com/Eggmangong/) / [Linkedin](https://www.linkedin.com/in/gongjinqi) / [Instagram](https://www.instagram.com/gongjinqi/)

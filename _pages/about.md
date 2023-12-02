@@ -12,4 +12,4 @@ Hi, I am Gong Jinqi. Currently I am a senior undergraduate student at the [Unive
 
 I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in Spring 2023.
 
-You can find my CV here: 
+You can find my CV here: [Gong Jinqi's Curriculum Vitae](../assets/Resume_Jinqi.pdf)

@@ -24,7 +24,7 @@ Experience
   * Research area: Information Retrieval, Recommendation System, Neural Network, Deep Learning, Large Language Model
   * Supervisor: Ma Shaoping, Professor
 
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -54,3 +54,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->

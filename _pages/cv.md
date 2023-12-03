@@ -21,6 +21,7 @@ Experience
 
 * Summer 2023: Research Assistant
   * Tsinghua University
+  * Information Retrieval Lab at Tsinghua University (THUIR)
   * Research area: Information Retrieval, Recommendation System, Neural Network, Deep Learning, Large Language Model
   * Supervisor: Ma Shaoping, Professor
 

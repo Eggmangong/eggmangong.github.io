@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Gong Jinqi. Currently I am a senior undergraduate student at the [University of Macau](https://www.um.edu.mo/). My major is [Statistics and Data Science](https://www.fst.um.edu.mo/math/bsc-courses/bachelor-sds-from-2019/) in the [Mathematics Department](https://www.fst.um.edu.mo/math/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/). My research interests include machine learning, information retrieval, data analysis, and mathematical modeling.
+Hi, I am Gong Jinqi. Currently, I am a first-year master's student at the [University of Southern California](https://www.usc.edu/). My major is [Analytics (MS)](https://catalogue.usc.edu/preview_program.php?catoid=20&poid=28702&returnto=8266) in the [Department of Industrial and Systems Engineering](https://ise.usc.edu/), [Viterbi School of Engineering](https://viterbischool.usc.edu/). My research interests include machine learning, information retrieval, data analysis, and mathematical modeling.
+
+I obtained a Bachelor of Science in Mathematics degree from the [University of Macau](https://www.um.edu.mo/). My major was [Statistics and Data Science](https://www.fst.um.edu.mo/math/bsc-courses/bachelor-sds-from-2019/) in the [Mathematics Department](https://www.fst.um.edu.mo/math/), [Faculty of Science and Technology](https://www.fst.um.edu.mo/). 
 
 I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in Spring 2023, and a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/) - [Information Retrieval Lab at Tsinghua University (THUIR) ](http://www.thuir.cn/) - in Summer 2023.
 

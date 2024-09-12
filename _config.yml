@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gong Jinqi's Homepage"
 title_separator          : "-"
 name                     : &name "Gong Jinqi"
-description              : &description "University of Macau"
+description              : &description "University of Southern California"
 url                      : https://eggmangong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gong Jinqi"
   avatar           : "myprofile.png"
-  bio              : "University of Macau"
-  location         : "Macau, China"
+  bio              : "University of Southern California"
+  location         : "Los Angeles, CA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/gongjinqi/"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-1037-4399"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

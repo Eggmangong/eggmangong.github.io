@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * M.S. in Analytics, University of Southern California, 2026 (Expected)
-  
   * Department of Industrial and Systems Engineering, Viterbi School of Engineering
 * B.S. in Mathematics with Specialization in Statistics and Data Science, University of Macau, 2024
   * Department of Mathematics, Faculty of Science and Technology

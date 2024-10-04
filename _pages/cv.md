@@ -66,6 +66,11 @@ Achievements/Awards
 * UM Residential College Foundation Scholarship (Top 3%), _2020 - 2021_
 * UM Dean’s Honor List, _2020 - 2024_
 
+Skills
+======
+* Programming Languages: Python, SQL, R, Matlab, Java, C, LaTeX
+* Languages: Mandarin (native), English (full professional), Cantonese (professional working)
+
 <!--Skills
 ======
 * Skill 1

@@ -37,6 +37,34 @@ Research
 indicators of the Chinese Characteristics Stock Valuation (CCV) system, quantitatively described and classified the
 characteristics of CCV stocks, and developed short-term and long-term investment portfolios with considerable returns.
 
+* Double Correction Framework for Denoising Recommendation
+  * Paper accepted by the ACM SIGKDD Conference 2024
+  * At Tsinghua University
+  * _Description_. Existing loss-based approaches to discard noisy labels have two limitations: the loss is unstable due to random
+initialization of parameters, and the discard may introduce inconsistencies in the training and testing spaces. A double correction
+framework for denoising recommendation is proposed to solve the problems.
+
+* The Art of Data Augmentation and Parameter Expansion in Markov Chain Monte Carlo
+  * Supervisor: Zhi Liu, Professor
+  * At University of Macau
+  * _Description_. We summarize recent developments in integrating Data Augmentation and Parameter Expansion techniques to
+enhance MCMC efficiency, and precisely define the Parameter Expansion Data Augmentation (PX-DA) algorithm, which refines
+the traditional methods and exhibits improved convergence properties, as supported by theoretical analysis and extensive
+simulations, and contributes to advancing Bayesian methods, providing a more robust framework for handling complex models.
+
+* Matrix Functions with Chebyshev Polynomials
+  * At University of California, Berkeley
+  * _Description_. Under the guidance of Prof. Michael Lindsey, more general functions of matrices can be constructed as limits of
+polynomials. By approximating general functions with Chebyshev polynomials, one can derive efficient algorithms for performing
+mat-vecs easily. Diverse experiments were demonstrated by Matlab to prove the efficiency of this method.
+
+Achievements/Awards
+======
+* Faculty of Science and Technology Outstanding Final Year Project (Top 3%), _2023 - 2024_
+* David and Barbara Pong Founding Master’s Scholarship (Top 1%), _2023 - 2024_
+* Lou Tou Vo Mathematics Scholarship (Top 3%), _2020 - 2021 / 2021 - 2022_
+* UM Residential College Foundation Scholarship (Top 3%), _2020 - 2021_
+* UM Dean’s Honor List, _2020 - 2024_
 
 <!--Skills
 ======

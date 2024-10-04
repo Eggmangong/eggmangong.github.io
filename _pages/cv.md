@@ -56,7 +56,7 @@ simulations, and contributes to advancing Bayesian methods, providing a more rob
   * At University of California, Berkeley
   * _Description_. Under the guidance of Prof. Michael Lindsey, more general functions of matrices can be constructed as limits of
 polynomials. By approximating general functions with Chebyshev polynomials, one can derive efficient algorithms for performing
-mat-vecs easily. Diverse experiments were demonstrated by Matlab to prove the efficiency of this method.
+mat-vecs easily. Experiments were demonstrated by Matlab to prove the efficiency of this method.
 
 Achievements/Awards
 ======

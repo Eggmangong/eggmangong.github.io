@@ -16,14 +16,14 @@ Education
 
 Experience
 ======
-* Summer 2023: Research Assistant
-  * Tsinghua University
+* _Research Assistant_, Tsinghua University
+  * Summer 2023
   * Information Retrieval Lab at Tsinghua University (THUIR)
   * Research area: Information Retrieval, Recommendation System, Neural Network, Deep Learning, Large Language Model
   * Supervisor: Ma Shaoping, Professor
  
-* Spring 2023: Visiting Student
-  * University of California, Berkeley
+* _Visiting Student_, University of California, Berkeley
+  * Spring 2023
   * Program: Berkeley Global Access (BGA)
 
 <!--Skills

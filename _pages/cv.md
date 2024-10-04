@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics with Specialization in Statistics and Data Science, University of Macau, 2024 (expected)
+* M.S. in Analytics, University of Southern California, 2026 (Expected)
+* B.S. in Mathematics with Specialization in Statistics and Data Science, University of Macau, 2024
 
 Experience
 ======
-* Spring 2023: Visiting Student
-  * University of California, Berkeley
-  * Program: Berkeley Global Access (BGA)
-
 * Summer 2023: Research Assistant
   * Tsinghua University
   * Information Retrieval Lab at Tsinghua University (THUIR)
   * Research area: Information Retrieval, Recommendation System, Neural Network, Deep Learning, Large Language Model
   * Supervisor: Ma Shaoping, Professor
+ 
+* Spring 2023: Visiting Student
+  * University of California, Berkeley
+  * Program: Berkeley Global Access (BGA)
 
 <!--Skills
 ======

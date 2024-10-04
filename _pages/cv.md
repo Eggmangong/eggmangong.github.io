@@ -28,6 +28,16 @@ Experience
   * Spring 2023
   * Program: Berkeley Global Access (BGA)
 
+Research
+======
+* Stock Model Analysis and Investment Strategy Based on Chinese Characteristics Valuation System
+  * "Greater Bay Area Cup" Financial Mathematical Modeling Competition
+  * Silver Medal, First Prize (Top 0.17%)
+  * _Description_. By implementing machine learning algorithms and classification models, we constructed five key characteristic
+indicators of the Chinese Characteristics Stock Valuation (CCV) system, quantitatively described and classified the
+characteristics of CCV stocks, and developed short-term and long-term investment portfolios with considerable returns.
+
+
 <!--Skills
 ======
 * Skill 1

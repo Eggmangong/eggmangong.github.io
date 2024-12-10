@@ -72,7 +72,7 @@ Achievements/Awards
 * UM Top Ten Outstanding Student Reporters, _2020 - 2021 / 2023 - 2024_
 * UM Top Ten Outstanding PR Student Ambassadors, _2022 - 2023_
 
-Leadership and Teamwork Outreach
+Organizations
 ======
 * _Viterbi Graduate Orientation Leader_, University of Southern California
   * 12/2024 - present

@@ -75,7 +75,7 @@ Achievements/Awards
 Leadership and Teamwork Outreach
 ======
 * _Viterbi Graduate Orientation Leader_, University of Southern California
-  * _12/2024 - present_
+  * 12/2024 - present
   * Assist with Orientation programs and other events in Spring 2025
   * Presentation facilitator to a diverse audience
   * Mentors to new students
@@ -83,15 +83,15 @@ Leadership and Teamwork Outreach
   * Representatives of Viterbi Students
   * Liaison between the office and students 
 * _Chief UM Reporter_, University of Macau
-  * _09/2020 - 06/2024_
+  * 09/2020 - 06/2024
 * _Public Relations Student Ambassador_, University of Macau
-  * _09/2020 - 06/2024_
+  * 09/2020 - 06/2024
 * _Spring 2023 Global Ambassador_, Univerisity of California, Berkeley
-  * _01/2023 - 05/2023_
+  * 01/2023 - 05/2023
 * _Choi Kai Yau College Residential Assistant_, University of Macau
-  * _08/2022 - 06/2024_
+  * 08/2022 - 06/2024
 * _Choi Kai Yau College Soccer Team_, University of Macau
-  * _09/2020 - 06/2024_
+  * 09/2020 - 06/2024
 
 Skills
 ======
